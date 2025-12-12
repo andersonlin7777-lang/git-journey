@@ -3,5 +3,3 @@ one
 another feature
 
 try feature
-
-new new feature
